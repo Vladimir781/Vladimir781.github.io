@@ -135,7 +135,7 @@ a:hover {
   border-color: rgba(61, 48, 48, 0); }
 
 .promo {
-  background: url("/img/bg/uber_bg.jpg") center center/cover no-repeat;
+  background: url("img/bg/uber_bg.jpg") center center/cover no-repeat;
   height: 799px;
   position: relative;
   z-index: -5;
@@ -215,7 +215,7 @@ a:hover {
 .mobile {
   margin-top: 30px;
   padding: 60px 0px 0px 0px;
-  background: url("/img/bg/mobile_bg.jpg") center center/cover no-repeat; }
+  background: url("img/bg/mobile_bg.jpg") center center/cover no-repeat; }
   .mobile__img-bg {
     max-width: 350px;
     min-height: 280px;
@@ -232,17 +232,17 @@ a:hover {
     position: relative;
     margin: 18px 30px; }
   .mobile__img-bg-1 {
-    background: url("/img/carts/cart1.jpg") center center/cover no-repeat; }
+    background: url("img/carts/cart1.jpg") center center/cover no-repeat; }
   .mobile__img-bg-2 {
-    background: url("/img/carts/cart2.jpg") center center/cover no-repeat; }
+    background: url("img/carts/cart2.jpg") center center/cover no-repeat; }
   .mobile__img-bg-3 {
-    background: url("/img/carts/cart3.jpg") center center/cover no-repeat; }
+    background: url("img/carts/cart3.jpg") center center/cover no-repeat; }
   .mobile__img-bg-4 {
-    background: url("/img/carts/cart4.jpg") center center/cover no-repeat; }
+    background: url("img/carts/cart4.jpg") center center/cover no-repeat; }
   .mobile__img-bg-5 {
     background: url("/img/carts/cart5.jpg") center center/cover no-repeat; }
   .mobile__img-bg-6 {
-    background: url("/img/carts/cart6.jpg") center center/cover no-repeat; }
+    background: url("img/carts/cart6.jpg") center center/cover no-repeat; }
   .mobile__title {
     font-weight: 400;
     font-size: 24px;
